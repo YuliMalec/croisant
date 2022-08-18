@@ -2,11 +2,11 @@ body {
     background: blueviolet;
 }
 h1 {
-    color: rgb(165, 240, 26);
+    color: white;
     text-align: center;
 }
 a,p {
-    color: rgba(0, 224, 30, 0.979);
+    color:white;
    display: flex;
   justify-content: center;
 }
