@@ -1,0 +1,21 @@
+body {
+    background: blueviolet;
+}
+h1 {
+    color: rgb(165, 240, 26);
+    text-align: center;
+}
+a,p {
+    color: rgba(0, 224, 30, 0.979);
+   display: flex;
+  justify-content: center;
+}
+.link {
+    display: flex;
+    justify-content: space-around;
+}
+img {
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
